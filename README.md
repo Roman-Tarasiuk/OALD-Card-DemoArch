@@ -1,3 +1,5 @@
-Demo vocabulary for https://github.com/Roman-Tarasiuk/OALD-Card
+Demo vocabulary for https://github.com/Roman-Tarasiuk/Word-Cards
 <br/>
-Пароль на демонстраційний архів - EnglishTRM
+Use new vocabulary voc.txt from the repository root, not the one from the archive.
+<br/>
+Demo archive password: EnglishTRM
